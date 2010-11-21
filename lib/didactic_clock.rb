@@ -1,0 +1,3 @@
+module DidacticClock
+  # Your code goes here...
+end
